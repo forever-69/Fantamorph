@@ -208,4 +208,4 @@ FantaMorph is offered as a full free version, including all features and updates
 Unleash your creativity today with FantaMorph! Download now and start morphing your photos into mesmerizing animations.
 
 ---
-**Last updated:** 2026-09-30 20:34:47 UTC
+**Last updated:** 2026-10-01 00:22:55 UTC
